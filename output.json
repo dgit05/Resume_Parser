@@ -1,0 +1,38 @@
+{
+    "Name": "DEBOSMITA CHOWDHURY",
+    "Designation": "ASPIRING AI ENGINEER",
+    "Email": "debosmitachowdhury20@gmail.com",
+    "Phone": "+91 7044514730",
+    "LinkedIn": "https://www.linkedin.com/in/debosmita-chowdhury-777529302",
+    "GitHub": "https://github.com/dgit05",
+    "Education": [
+        "Bachelor of Computer Applications\nTechno Main Saltlake Aug 2024 - Jun 2028\nComputer Science",
+        "Higher Secondary Education\nHoly Child Institute Girl\u2019s Higher Secondary School Jan 2010 - May 2024"
+    ],
+    "Achievements": [
+        "Completed multiple AI-based projects including a real-time Translator App and a Teachable Machine using Python and Streamlit.",
+        "Secured an AI Internship where I worked on real-world applications like NLP-powered resume parsers and translation tools.",
+        "Deployed interactive web apps using Streamlit and Vercel, integrating real-time ML functionalities.",
+        "Built and trained custom ML models using Google\u2019s Teachable Machine for real-time image classification tasks."
+    ],
+    "Projects": [
+        "Real-Time Multilingual Translation: ...",
+        "Custom Model Training via Transfer Learning: ..."
+    ],
+    "Skills": [
+        "AI",
+        "Bootstrap",
+        "CSS3",
+        "C",
+        "Data",
+        "HTML5",
+        "Java",
+        "JS",
+        "ML",
+        "MongoDB",
+        "Python",
+        "Structures",
+        "Algorithm"
+    ],
+    "Predicted Role": "AI Engineer"
+}
