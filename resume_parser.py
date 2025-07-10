@@ -7,11 +7,8 @@ import re
 import spacy
 import json
 
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
+# Load spaCy model
+nlp = spacy.load("en_core_web_sm")
 
 # ----------- Keywords for Prediction -----------
 ROLE_KEYWORDS = {
